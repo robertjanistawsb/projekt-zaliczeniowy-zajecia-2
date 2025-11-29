@@ -1,0 +1,39 @@
+INSPIRACJE:
+- skupienie, flow, Pomodoro
+- priorytetyzacja (ważne/pilne)
+- minimalizm UI, szybka obsługa
+- checklisty, mikrozadania
+- kalendarz tygodniowy, widok dzień/tydzień
+- przypomnienia push, powiadomienia dźwiękowe
+- motywacja: odznaki, procent ukończenia
+- integracja z notatkami, linkami do materiałów
+- synchronizacja między urządzeniami
+- tryb offline, eksport/import danych
+
+KRÓTKA LISTA ELEMENTÓW PROJEKTU:
+1. Ekran główny z listą zadań (filtrowanie, sortowanie)
+2. Kalendarz tygodniowy z możliwością przeciągania zadań
+3. System przypomnień i powiadomień
+4. Proste statystyki postępów (dziennie/tygodniowo)
+5. Kategorie i tagi zadań
+6. Ustawienia użytkownika i backup danych
+
+WSTĘPNE DANE WEJŚCIOWE:
+- Lista kategorii: Nauka, Laboratorium, Projekt, Egzamin, Praca domowa, Inne
+- Lista priorytetów: Niski, Normalny, Wysoki, Krytyczny
+- Typy zadań: Jednorazowe, Powtarzalne, Terminowe
+- Lista funkcji:
+    * Dodaj/edytuj/usuwaj zadanie
+    * Przypomnienia (czas/odliczanie)
+    * Widoki: lista, kalendarz, tygodniowy plan
+    * Tagowanie i filtrowanie
+    * Synchronizacja/eksport CSV
+    * Proste statystyki i historia wykonania
+- Preferencje użytkownika: tryb ciemny, dźwięki, interwał Pomodoro
+
+LISTA ŹRÓDEŁ POMYSŁU:
+- Własna potrzeba: brak planu nauki podczas sesji
+- Znajomi/studenty: prośby o lepsze planowanie czasu
+- Obserwacja problemu: rozproszenie i nadmiar materiałów
+- Istniejące aplikacje: inspiracja funkcjami (kalendarz, przypomnienia)
+- Przypadek: pilny termin projektu, brak narzędzia do rozbicia zadań

@@ -1,0 +1,29 @@
+   +-----------------------------------------------------+
+   |               Aplikacja: Organizator                |
+   |                                                     |
+   |   (Rejestracja / Logowanie)                         |
+   |                                                     |
+   |   (Zarządzaj zadaniami)      <--- (Tworzenie/edycja)|
+   |                                                     |
+   |   (Kalendarz tygodniowy)                            |
+   |                                                     |
+   |   (Ustaw przypomnienia)                             |
+   |                                                     |
+   |   (Przeglądaj statystyki postępów)                  |
+   |                                                     |
+   |   (Ustawienia / Eksport danych)                     |
+   +-----------------------------------------------------+
+            ^         ^        ^         ^          ^
+            |         |        |         |          |
+            |         |        |         |          |
+         .--|---------|--------|---------|----------|--.
+         |                                             |
+         |                 Student                     |
+         |               (18-25 lat)                   |
+         |                                             |
+         '---------------------------------------------'
+
+Legend:
+ - Każdy element w nawiasach () to przypadek użycia.
+ - Strzałki wskazują interakcję aktora (Studenta) z systemem.
+ - "(Tworzenie/edycja)" przy "Zarządzaj zadaniami" wskazuje główne akcje.
