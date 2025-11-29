@@ -9,6 +9,7 @@ INSPIRACJE:
 - integracja z notatkami, linkami do materiałów
 - synchronizacja między urządzeniami
 - tryb offline, eksport/import danych
+ewqeiwq
 
 KRÓTKA LISTA ELEMENTÓW PROJEKTU:
 1. Ekran główny z listą zadań (filtrowanie, sortowanie)
